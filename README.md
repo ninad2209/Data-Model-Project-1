@@ -13,8 +13,8 @@ This Repository Contains :-
 &emsp;
 
 This Folder contains 2 jupyter notebooks:-
-1) Data Model Exercise 1 : Python Code contains connection to database and perform simple SQL Queries on that database using python code for practice.
-2) Data Model Project 1 : Actual Project where data extraction happens from CSV Files and Data Model Is created using SQL Queries and Python Code. Data Insertion into respective dimensions happen using python code.
+1) Data Model Exercise 1 : This Python notebook contains Code for connection to database and to perform simple SQL Queries on that database for practice.
+2) Data Model Project 1 : This Python notebook contains Actual Project where data extraction happens from CSV Files and Data Model Is created using SQL Queries and Python Code. Data Insertion into respective dimensions happen using python.
 
 &emsp;
 * CSV FILES Folder -
