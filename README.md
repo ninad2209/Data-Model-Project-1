@@ -9,7 +9,7 @@ This Repository Contains :-
 
 
 &emsp;&emsp;
-* Jupyter Notebook Folders -
+* Jupyter Notebooks Folders -
 &emsp;
 
 This Folder contains 2 jupyter notebooks:-
