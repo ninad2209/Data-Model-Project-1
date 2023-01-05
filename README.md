@@ -20,7 +20,6 @@ This Folder contains 2 jupyter notebooks:-
 * CSV FILES Folder -
 This Folder contains all the AdventureWorks CSV Files that are used in this project.
 
-
 &emsp;
 * Data Model Project Html File -
 Provides a visual representation of how data model looks like for the given dimensions & attributes. 
