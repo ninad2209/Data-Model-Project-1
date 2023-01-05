@@ -22,5 +22,5 @@ This Folder contains all the AdventureWorks CSV Files that are used in this proj
 
 
 &emsp;
-* Data-Model Html File -
+* Data Model Project Html File -
 Provides a visual representation of how data model looks like for the given dimensions & attributes. 
