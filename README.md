@@ -3,9 +3,9 @@ Data Model Creation Using Python &amp; SQL.
 
 This Repository Contains :-
 
-=> Jupyter Notebook Files
-=> CSV FILES Folder
-=> Data-Model Html File
+* Jupyter Notebook Files
+* CSV FILES Folder
+* Data-Model Html File
 
 * Jupyter Notebook Files -
 1) Data Model Exercise 1 : Python Code contains connection to database and perform simple SQL Queries on that database using python code for practice.
